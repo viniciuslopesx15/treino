@@ -2,3 +2,6 @@
 **1 Encontro de informatica do instituto federal de rondônia**
 ###Versão###
 ***1.0***
+
+###Autor###
+***teste***
